@@ -118,9 +118,6 @@ const HomePage = () => {
                         <p>Diam sanctus justo ea voluptua clita consetetur amet vero ea.</p>
                         <div className="row">
                             <div className="testimonial-col">
-
-                                <img src="/images/user1.jpg" alt="image" />
-
                                 <div>
                                     <p>Erat lorem voluptua duo justo takimata takimata eirmod. Magna sed elitr sed rebum eos tempor sanctus elitr. Dolor ipsum justo.</p>
                                     <h3>Cristine Berkley</h3>
@@ -132,7 +129,6 @@ const HomePage = () => {
                                 </div>
                             </div>
                             <div className="testimonial-col">
-                                <img src="/images/user2.jpg" alt="image" />
                                 <div>
                                     <p>Erat lorem voluptua duo justo takimata takimata eirmod. Magna sed elitr sed rebum eos tempor sanctus elitr. Dolor ipsum justo.</p>
                                     <h3>David Byer</h3>
